@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muraisheeding
-- 👀 I’m interested in web design
-- 🌱 I’m a Stripe-lover, currently learning svelte, postgresql and stripe
+- 👀 I’m a web design enthusiast
+- 🌱 I’m a Stripe-lover, currently learning svelte and postgresql
 
 :-)
